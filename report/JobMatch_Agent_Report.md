@@ -29,15 +29,15 @@ After the decision stage, the action agents generate useful outputs. The Skill G
 ## Page 2: Screenshots and System Behavior
 
 Screenshot 1: CV and job description input screen. The user pastes a CV and a job description into the Streamlit dashboard. This demonstrates the perception stage, where the agent receives unstructured text from the user.
-
-`<insert screenshot of input page here>`
+![Screenshot 1: CV and job description input screen](../assets/screenshot_1_input.png)
 
 Screenshot 2: Match score and gap analysis output. After clicking "Run JobMatch Agent", the system displays the match score, required skills found, missing keywords, recommendation, strong areas, weak areas, and risk points. This demonstrates the decision stage, where the agent evaluates the role against the candidate profile.
 
-`<insert screenshot of match and gap page here>`
+![alt text](image-9.png)
 
 Screenshot 3: CV tailoring, interview preparation, and tracker. The system generates resume bullets, a cover letter paragraph, interview questions, STAR answer drafts, and a next action. The user can save the application into a tracker table. This demonstrates the action and memory stage of the agent.
 
-`<insert screenshot of tailoring/interview/tracker page here>`
+[alt text](image-8.png)
+![alt text](image-10.png)
 
 The prototype is intentionally rule-based so that it can run locally without requiring an external LLM API key. This improves reproducibility for assessment and avoids sending private CV data to a third-party service. The system can later be extended with an LLM for more flexible rewriting, stronger natural language understanding, and richer interview coaching.
