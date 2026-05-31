@@ -35,5 +35,6 @@ Screenshot 2: Match score and gap analysis output. After clicking "Run JobMatch 
 ![Screenshot 2: Agent decision with match score and recommendation](../assets/screenshot_2_decision.png)
 
 Screenshot 3: CV tailoring, interview preparation, and tracker. The system generates resume bullets, a cover letter paragraph, interview questions, STAR answer drafts, and a next action. The user can save the application into a tracker table. This demonstrates the action and memory stage of the agent.
+![Screenshot 3: Parsed CV evidence extracted by the agent](../assets/screenshot_3_parsed_cv.png)
 
 The prototype is intentionally rule-based so that it can run locally without requiring an external LLM API key. This improves reproducibility for assessment and avoids sending private CV data to a third-party service. The system can later be extended with an LLM for more flexible rewriting, stronger natural language understanding, and richer interview coaching.
