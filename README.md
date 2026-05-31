@@ -80,6 +80,4 @@ http://localhost:8501
 
 [2-minute demo video](https://drive.google.com/file/d/1fzUz1GM-TwfPGM21FenMd9iL7bzJC-bG/view?usp=drive_link)
 
-## Safety and Limitations
 
-This prototype uses rule-based logic instead of automatically sending personal CV data to an external API. It is suitable for classroom demonstration, but real deployment should include privacy controls, user consent, stronger parsing, model evaluation, and bias checks.
