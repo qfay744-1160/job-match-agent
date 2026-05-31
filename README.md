@@ -78,36 +78,7 @@ http://localhost:8501
 
 ## Demo Video
 
-Add your 2-minute demo video link here:
-
-```text
-Demo video: <paste Loom / YouTube unlisted / Google Drive link>
-```
-
-Suggested demo flow:
-
-1. Show CV and JD input.
-2. Run the JobMatch Agent.
-3. Explain match score, missing keywords, and risk points.
-4. Show tailored CV content and interview preparation.
-5. Save one application into the tracker.
-
-## Commit Checkpoints
-
-Suggested commit history:
-
-```bash
-git add .
-git commit -m "Initial JobMatch Agent Streamlit prototype"
-
-git commit -m "Add CV parser and JD analyzer agents"
-
-git commit -m "Add matching score and skill gap analysis"
-
-git commit -m "Add CV tailoring, interview prep, and tracker"
-
-git commit -m "Add README, report draft, and demo instructions"
-```
+[2-minute demo video](https://drive.google.com/file/d/1fzUz1GM-TwfPGM21FenMd9iL7bzJC-bG/view?usp=drive_link)
 
 ## Safety and Limitations
 
