@@ -47,7 +47,7 @@ The prototype follows a perceive-decide-act loop:
 1. Clone the repository.
 
 ```bash
-git clone <your-github-repo-link>
+git clone https://github.com/qfay744-1160/job-match-agent.git
 cd job-match-agent
 ```
 
